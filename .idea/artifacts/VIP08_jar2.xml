@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VIP08:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/VIP08_jar2</output-path>
+    <root id="archive" name="VIP08.jar">
+      <element id="module-output" name="VIP08" />
+    </root>
+  </artifact>
+</component>
