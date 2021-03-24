@@ -7,9 +7,16 @@ package com.interview.first;
  * @Created by 小白sy
  */
 public class test {
+    static int i = 0;
     public static void main(String[] args) {
-        int x=3;
-        x= (int) Math.pow(x,2);
-        System.out.println(x);
+        func(i);
+        System.out.println(i++);
+
     }
+
+    public static void func(int i)
+    {
+        System.out.println(i++);
+    }
+
 }
